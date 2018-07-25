@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nothing Tube</string>
+
+    <!--Error Messages-->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+</resources>
